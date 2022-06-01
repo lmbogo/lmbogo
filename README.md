@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My name is Linnet and I am an economics professional who enjoys working with data! I code in Python, Stata and R. After all the data wrangling and econometric analysis, I usually reward myself by visualizing my results using Tableau, Power BI, excel....or whichever tool produces the best visualization in the least amount of time. The goal is to always have fun while working with data!
 
 <!--
 **lmbogo/lmbogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
